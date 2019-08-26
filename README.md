@@ -44,9 +44,9 @@ Read *modelnet/data/README.md* for instructions on how to download ModelNet40 da
 
 ## Usage
 
-*   `python3 train.py` to train the selected model. `--help` option to show the help;
+*   `python3 train.py` to train the selected model. `--help` to show the help;
 
-*   `python3 evaluate.py` to evaluate the selected model. `--help` option to show the help;
+*   `python3 evaluate.py` to evaluate the selected model. `--help` to show the help;
 
 *   read *modelnet/tools/README.md* for instructions on how to visualize the point clouds.
 

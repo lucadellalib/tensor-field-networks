@@ -1,4 +1,4 @@
-# Tensor Field Network for Rotation Equivariance in 3D Point Cloud Classification
+# Tensor Field Networks for Rotation Equivariance in 3D Point Cloud Classification
 
 TensorFlow implementation of Tensor Field Networks (https://arxiv.org/abs/1802.08219). Extended version of the code in https://github.com/tensorfieldnetworks/tensorfieldnetworks/tree/949e64ac6e069c2f1bfbcbf30d13f696a970488a. **Batch learning is now supported**. The proposed models are tested on ModelNet40 point cloud dataset (https://modelnet.cs.princeton.edu/). Developed and tested on Ubuntu 18.04 LTS.
 

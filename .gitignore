@@ -1,0 +1,7 @@
+.ign
+.ipynb_checkpoints
+.so
+__pycache__/
+./env/
+./log/
+./dump/

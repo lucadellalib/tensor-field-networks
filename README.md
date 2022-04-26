@@ -54,6 +54,6 @@ Read *modelnet/data/README.md* for instructions on how to download ModelNet40 da
 
 ## Contact
 
-luca310795@gmail.com
+luca.dellalib@gmail.com
 
 ---------------------------------------------------------------------------------------------------------
